@@ -2,13 +2,13 @@
     "domain": "vive_basestations",
     "name": "Vive Base Stations",
     "version": "1.0.0",
-    "documentation": "https://github.com/yourusername/yourrepo",  
+    "documentation": "https://github.com/CuriosMind/vive_basestations",  
     "requirements": [
       "bleak>=0.20.2",
       "async_timeout>=4.0.2"
     ],
     "dependencies": [],
-    "codeowners": [],
+    "codeowners": ["@CuriosMind"],
     "iot_class": "local_polling"
     }
     
