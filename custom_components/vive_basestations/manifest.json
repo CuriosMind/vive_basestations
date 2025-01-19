@@ -3,6 +3,7 @@
     "name": "Vive Base Stations",
     "version": "1.0.0",
     "documentation": "https://github.com/CuriosMind/vive_basestations",  
+    "issue_tracker": "https://github.com/CuriosMind/vive_basestations",  
     "requirements": [
       "bleak>=0.20.2",
       "async_timeout>=4.0.2"
